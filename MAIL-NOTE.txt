@@ -1,0 +1,1 @@
+Note: Email saat ini menggunakan log driver (ditulis ke storage/logs/). Untuk production, set MAIL_MAILER=smtp di .env dan jalankan php artisan queue:work untuk proses email queue.
