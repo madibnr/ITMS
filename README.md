@@ -19,22 +19,22 @@ Sistem manajemen IT terpadu berbasis web untuk kebutuhan operasional tim IT. Dib
 - Inventaris aset IT (Laptop, PC, Printer, dll.)
 - Multi-status: Active, In Repair, In Stock, Retired, Lost, Broken
 - Penugasan (assignment) aset ke pengguna
-- QR Code per aset untuk identifikasi cepat
-- Kalkulasi depresiasi aset otomatis
+- QR Code per aset untuk identifikasi cepat (**on development**)
+- Kalkulasi depresiasi aset otomatis (**on development**)
 - Import / Export data aset via Excel
-- Manajemen file & lampiran per aset
+- Manajemen file & lampiran per aset (**on development**)
 - Riwayat perubahan aset (audit log)
 - **Konfigurasi format Asset Tag** (prefix, separator, jumlah digit, nomor urut)
 - **Edit Asset Tag** langsung dari halaman inventaris via modal
 
-### 🔧 Asset Maintenance
+### 🔧 Asset Maintenance (**on development**)
 - Jadwal preventive maintenance aset
 - Log perbaikan / maintenance korektif
 - Status: Scheduled, In Progress, Completed, Overdue
 
-### 📦 Software & Licenses
+### 📦 Software & Licenses (**Basic Feature**)
 - Manajemen daftar software
-- Manajemen lisensi software (jumlah kursi, tanggal kedaluwarsa)
+- Manajemen lisensi software (jumlah lisensi, tanggal kedaluwarsa)
 - Penugasan lisensi ke pengguna
 
 ### 📋 IT Documentation
@@ -46,12 +46,12 @@ Sistem manajemen IT terpadu berbasis web untuk kebutuhan operasional tim IT. Dib
 - Metadata terstruktur per kategori dokumen
 - Filter dan pencarian dokumentasi
 
-### 🔀 Change Requests
+### 🔀 Change Requests (**on development**)
 - Pengajuan permintaan perubahan sistem IT
 - Alur persetujuan (Submit → Approve/Reject → Implement)
 - Export laporan perubahan ke Excel
 
-### ⚠️ Incident Management
+### ⚠️ Incident Management (**on development**)
 - Pencatatan insiden IT
 - Root Cause Analysis (RCA)
 - Export laporan insiden ke Excel
